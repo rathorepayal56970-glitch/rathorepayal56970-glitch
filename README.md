@@ -45,15 +45,6 @@
 
 ---
 
-<h2 align="left">📊 GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rathorepayal56970&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rathorepayal56970&theme=dracula" height="150" />
-</div>
-
----
-
-<h2 align="left">🔥 Keep Learning & Growing</h2>
 
 <p align="center">Thanks for visiting my profile ❤️</p>

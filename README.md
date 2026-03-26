@@ -33,12 +33,12 @@
 ###
 
 <div align="center">
-
+  
 - 🔭 Currently exploring new ideas and improving my full stack development skills  
-- 🌱 Learning Java and improving full stack skills  
-- 👯 Looking to collaborate on full stack & creative design projects  
-- 🤝 Looking for help with backend & Java  
-- 💬 Ask me about full stack, graphic design & video creation  
+- 🌱 Learning Java and improving full stack development skills  
+- 👯 Looking to collaborate on full stack web development and creative design projects  
+- 🤝 Looking for help with backend development and Java  
+- 💬 Ask me about full stack, graphic design, and video creation  
 - 📫 Reach me at: rathorepayal56970@gmail.com  
 - ⚡ Fun fact: I enjoy shooting my own videos and love drawing 🎬🎨  
 
@@ -48,10 +48,15 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rathorepayal56970&theme=dracula" height="150" />
+  <img src="https://github-profile-trophy.vercel.app?username=rathorepayal56970&theme=dracula" height="150" />
 </div>
 
 ###
 
 <picture>
-  <img src="https://raw.githubusercontent.com/rathorepayal56970/rathorepayal56970/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rathorepayal56970/rathorepayal56970/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rathorepayal56970/rathorepayal56970/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rathorepayal56970/rathorepayal56970/output/pacman-contribution-graph.svg">
 </picture>
+
+###

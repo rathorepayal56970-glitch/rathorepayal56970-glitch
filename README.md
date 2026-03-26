@@ -48,3 +48,18 @@
 
 
 <p align="center">Thanks for visiting my profile ❤️</p>
+---
+
+## 🚀 My Projects
+
+### 🏨 Hotel Management Web App
+💻 GitHub: https://github.com/rathorepayal56970-glitch/hotel-management-webapp  
+👉 A full stack hotel management system for booking and management  
+
+---
+
+### 🎮 GTA VI Website / 3D Animation Project
+💻 GitHub: https://github.com/rathorepayal56970-glitch/GTA-VI-WebSite  
+👉 Creative frontend project with animations and modern UI  
+
+---

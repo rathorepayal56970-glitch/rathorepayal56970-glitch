@@ -12,7 +12,10 @@
 🎯 Goal: To become a skilled full stack developer and work on real-world projects<br>
 🎲 Fun fact: I enjoy shooting my own videos and love drawing 🎬🎨<br><br>
 
+🌐 <b>Portfolio:</b> <a href="https://portfolio-showcase--rathorepayal569.replit.app">View Portfolio</a><br>
+
 📄 <b>Resume:</b> <a href="https://drive.google.com/file/d/1aNktC06ibjsiFvO4OQWQjOf1-ooPQMzH/view?usp=drivesdk">View Resume</a><br>
+
 📫 <b>Email:</b> rathorepayal56970@gmail.com
 </p>
 
@@ -45,9 +48,8 @@
 
 ---
 
-
-
 <p align="center">Thanks for visiting my profile ❤️</p>
+
 ---
 
 ## 🚀 My Projects
